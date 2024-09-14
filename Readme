@@ -1,0 +1,9 @@
+Requisitos para ejecutar el proyecto:
+    -PHP 8.0 en adelante
+    -Tener composer instalado
+Pasos para ejecutar el proyecto:
+    -Ejecutar composer install
+    -Ejecutar php -S localhost:8080 -t public
+
+Comando para ejecutar tests:
+    -Ejecutar composer test
